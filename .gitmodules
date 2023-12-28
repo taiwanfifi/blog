@@ -1,0 +1,7 @@
+[submodule "insightbotics-blog/themes/mainroad"]
+	path = insightbotics-blog/themes/mainroad
+	url = https://github.com/vimux/mainroad.git
+[submodule "insightbotics-blog/public"]
+	path = insightbotics-blog/public
+	url = git@github.com:taiwanfifi/insightbotics.github.io.git
+	branch = main
