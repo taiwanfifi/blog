@@ -3,7 +3,7 @@ title = '使用 Hugo 與 GitHub 建立個人博客的完整指南'
 date = 2023-12-26T05:20:15+08:00
 +++
 
-這是我關於如何使用 Hugo 和 GitHub 建立和部署靜態博客的教學，參考了這個非常有用的 [YouTube 影片](https://www.youtube.com/watch?v=LIFvgrRxdt4&t=2s)。身為台大電機系的學生，我發現這個過程既有趣又富有教育意義。以下是我按步驟整理的內容：
+這是我關於如何使用 Hugo 和 GitHub 建立和部署靜態博客的教學，參考了這個非常有用的 [YouTube 影片](https://www.youtube.com/watch?v=LIFvgrRxdt4&t=2s)。身為台大的學生，我發現這個過程既有趣又富有教育意義。以下是我按步驟整理的內容：
 
 ## 建立 Hugo 博客
 
